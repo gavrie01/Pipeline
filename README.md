@@ -1,2 +1,1 @@
-# Pipeline
-Exercise: preprocessing + pipeline (iris data set)
+SImple modelling on iris data set
