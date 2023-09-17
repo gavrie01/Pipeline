@@ -1,1 +1,1 @@
-SImple modelling on iris data set
+Simple modelling on iris data set
